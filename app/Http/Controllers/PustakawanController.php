@@ -1,7 +1,6 @@
 <?php
 
 namespace App\Http\Controllers;
-app/Http/Controllers/PustakawanController.php;
 
 use App\Models\Pustakawan;
 use Illuminate\Http\Request;
@@ -62,4 +61,3 @@ class PustakawanController extends Controller
 
 }
 
-?>

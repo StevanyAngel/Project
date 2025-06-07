@@ -11,7 +11,7 @@
         </div>
 
         @if (session()->has('info'))
-            <div class="alert alert-succes">
+            <div class="alert alert-success">
                 {{session()->get('info')}}
             </div>
         @endif
